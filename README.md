@@ -1,1 +1,1 @@
-# EDA of Working Environment in Tech Companies and Building a predictive Model if an employee should consider seeking treatment or not.
+# EDA of Working Environment in Tech Companies and Building a Model predicting as to whether an employee should consider seeking treatment/therapy or not.
